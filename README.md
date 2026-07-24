@@ -10,16 +10,18 @@ Learn the basics of throughput computing and data movement.
 
 **Hands-on exercises**: Use the [OSPool Guest Notebook](https://portal.osg-htc.org/documentation/overview/test-drive-ospool/)
 
-* Get data using OSDF [/pelican-training-client/pelican-CLI.ipynb](https://notebook.ospool.osg-htc.org/hub/user-redirect/lab/tree/pelican-training-client/pelican-CLI.ipynb)
+* Get data using OSDF [/pelican-training-client/quickstart.ipynb](https://notebook.ospool.osg-htc.org/hub/user-redirect/lab/tree/pelican-training-client/quickstart.ipynb)
 * Throughput computing with the OSPool [/pelican-training-client/htcondor-plugin/plugin.ipynb](https://notebook.ospool.osg-htc.org/hub/user-redirect/lab/tree/pelican-training-client/htcondor-plugin/plugin.ipynb)
 
 ## Part 2
 
 Apply principles of throughput computing to machine-learning workflows.
 
-**Slides**: *TBD*
+**Slides**: [go.wisc.edu/q3g4a9](https://go.wisc.edu/q3g4a9)
 
-**Hands-on exercises**: *TBD*
+**Hands-on exercises**: Use temporary AP40 access in OSPool Notebook (register in advance using link in email with subject "Pre-PEARC26 Training Action Items")
+
+* [Run PyTorch jobs on the OSPool tutorial](https://github.com/osg-htc/tutorial-pytorch-catdog/tree/pearc26)
 
 ## Part 3
 
