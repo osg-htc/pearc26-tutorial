@@ -27,4 +27,7 @@ Apply principles of throughput computing to machine-learning workflows.
 
 Integrate your work with the OSPool and the OSDF.
 
-**Slides**: *TBD*
+**Slides**: [go.wisc.edu/7zg3mr](https://go.wisc.edu/7zg3mr)
+
+There are no hands-on exercises for this part.
+
