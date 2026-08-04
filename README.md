@@ -2,6 +2,8 @@
 
 This document summarizes the materials covered in the [PEARC26 tutorial](https://pearc.acm.org/pearc26/conference-schedule/#session=72ce2efe-0330-4f64-8c91-ce3b15f71ada) of the same name.
 
+**DOI**: 10.5281/zenodo.21797090
+
 ## Part 1
 
 Learn the basics of throughput computing and data movement.
